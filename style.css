@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding:  0;
+    box-sizing: border-box;
+}
+
+.portfolio{
+    font-family: "Sixtyfour Convergence", sans-serif;
+    padding: 10%;
+}
+.portfolio h1{
+        font-size: 50px;
+        
+    }
+    .portfolio h2{
+        font-size: 35px;
+    }
+    .portfolio h6{
+        font-size: 20px;
+    }
+    .text-white{
+        color: white;
+    }
+    section{
+        display: flex;  
+        background-image: url("https://cdn.pixabay.com/photo/2024/06/30/10/28/sky-8862862_1280.png");
+        background-repeat: no-repeat;
+    }
+        .portfolio{
+            width: 80%;
+        }
+    .box{
+        text-decoration: none;
+        background-color: blue;
+        padding: 10px 20px;
+        color: white;
+    }
+    .badhon{
+        padding: 1%;
+        border-radius: 50%;
+    }
+    section1{
+        display: flex;  
+        background-image: url("https://cdn.pixabay.com/photo/2012/04/14/16/37/sky-34536_1280.png");
+        background-repeat: no-repeat;
+    }
